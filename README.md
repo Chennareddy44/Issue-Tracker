@@ -663,4 +663,5 @@ For any questions or discussions, feel free to open an [Issue](https://github.co
 The UML class diagram helps visualize the system structure and relationships between classes (User, Issue, Comment, etc.).  
 You can find it here:
 
-![Issue Tracker System_UML Class Diagram](https://github.com/user-attachments/assets/fc5fadc6-7afe-47b2-b9c8-080d96c1be97)
+![Issue Tracker System_UML Class Diagram](https://github.com/user-attachments/assets/fd4f73aa-f7ec-4a7f-8569-da07f326f20b)
+
